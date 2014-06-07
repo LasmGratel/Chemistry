@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}This project is under the Lesser GNU General Public Lisence 3.
+${licensePrefix}If you want to rebuild or rewrite the source,please contact Lasm Gratel on github.
+<#if licenseLast??>
+${licenseLast}
+</#if>
